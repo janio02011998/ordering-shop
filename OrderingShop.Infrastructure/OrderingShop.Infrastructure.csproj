@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Conxtext\Entities\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Conxtext\" />
+  </ItemGroup>
+
 </Project>
