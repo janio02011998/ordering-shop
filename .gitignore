@@ -482,3 +482,4 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/.vs/OrderingShop/v17/.suo
