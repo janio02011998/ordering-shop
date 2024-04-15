@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using OrderingShop.Infrastructure.Context.Entities;
 
 namespace OrderingShop.Infrastructure.Interfaces
 {
-    internal interface IProductRepository
+    public interface IProductRepository : IRepository<Product>
     {
     }
 }

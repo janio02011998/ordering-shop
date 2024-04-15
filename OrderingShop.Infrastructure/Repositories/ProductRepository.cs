@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using OrderingShop.Infrastructure.Context.Entities;
+using OrderingShop.Infrastructure.Interfaces;
+
 
 namespace OrderingShop.Infrastructure.Repositories
 {
-    internal class ProductRepository
+    public class ProductRepository : Repository<Product>, IProductRepository
     {
+        public ProductRepository(ApplicationDbContext context) : base(context)
+        {
+        }
     }
 }
