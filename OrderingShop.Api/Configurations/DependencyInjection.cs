@@ -1,4 +1,12 @@
-﻿namespace OrderingShop.Api.Configurations
+﻿using Microsoft.EntityFrameworkCore;
+using OrderingShop.Domain.Interfaces;
+using OrderingShop.Domain.Mappings;
+using OrderingShop.Domain.Services;
+using OrderingShop.Infrastructure.Interfaces;
+using OrderingShop.Infrastructure.Repositories;
+using OrderingShop.Infrastructure.Context;
+
+namespace OrderingShop.Api.Configurations
 {
     public static class DependencyInjection
     {

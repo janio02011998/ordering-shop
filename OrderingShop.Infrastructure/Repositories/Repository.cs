@@ -1,10 +1,7 @@
-﻿using OrderingShop.Infrastructure.Conxtext.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using OrderingShop.Infrastructure.Context;
+using OrderingShop.Infrastructure.Conxtext.Entities;
 using OrderingShop.Infrastructure.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OrderingShop.Infrastructure.Repositories
 {
