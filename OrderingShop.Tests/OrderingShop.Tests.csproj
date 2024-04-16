@@ -17,6 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\OrderingShop.Api\OrderingShop.Api.csproj" />
+    <ProjectReference Include="..\OrderingShop.Domain\OrderingShop.Domain.csproj" />
+    <ProjectReference Include="..\OrderingShop.Infrastructure\OrderingShop.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
