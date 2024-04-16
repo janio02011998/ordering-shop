@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|c:\\users\\janio\\source\\repos\\orderingshop\\orderingshop.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|solutionrelative:orderingshop.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{380C3E2C-C927-482E-BB48-4A645717B514}|OrderingShop.Tests\\OrderingShop.Tests.csproj|c:\\users\\janio\\source\\repos\\orderingshop\\orderingshop.tests\\api\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380C3E2C-C927-482E-BB48-4A645717B514}|OrderingShop.Tests\\OrderingShop.Tests.csproj|solutionrelative:orderingshop.tests\\api\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|c:\\users\\janio\\source\\repos\\orderingshop\\orderingshop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|solutionrelative:orderingshop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26C0DB3-09A5-422B-89F2-4FC1B8F98997}|OrderingShop.Api\\OrderingShop.Api.csproj|c:\\users\\janio\\source\\repos\\orderingshop\\orderingshop.api\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26C0DB3-09A5-422B-89F2-4FC1B8F98997}|OrderingShop.Api\\OrderingShop.Api.csproj|solutionrelative:orderingshop.api\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|C:\\Users\\Janio\\source\\repos\\OrderingShop\\orderingshop.infrastructure\\context\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|solutionrelative:orderingshop.infrastructure\\context\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|C:\\Users\\Janio\\source\\repos\\OrderingShop\\orderingshop.infrastructure\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9731E86D-4AA6-4618-8A94-F88A2503E483}|OrderingShop.Infrastructure\\OrderingShop.Infrastructure.csproj|solutionrelative:orderingshop.infrastructure\\context\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{380C3E2C-C927-482E-BB48-4A645717B514}|OrderingShop.Tests\\OrderingShop.Tests.csproj|c:\\users\\janio\\source\\repos\\orderingshop\\orderingshop.tests\\orderingshop.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{380C3E2C-C927-482E-BB48-4A645717B514}|OrderingShop.Tests\\OrderingShop.Tests.csproj|solutionrelative:orderingshop.tests\\orderingshop.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,68 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Context\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "OrderingShop.Infrastructure\\Context\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Context\\Entities\\Product.cs",
-              "RelativeToolTip": "OrderingShop.Infrastructure\\Context\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T23:25:10.463Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "OrderingShop.Tests",
+              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Tests\\OrderingShop.Tests.csproj",
+              "RelativeDocumentMoniker": "OrderingShop.Tests\\OrderingShop.Tests.csproj",
+              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Tests\\OrderingShop.Tests.csproj",
+              "RelativeToolTip": "OrderingShop.Tests\\OrderingShop.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T23:11:39.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "OrderingShop.Infrastructure\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeToolTip": "OrderingShop.Infrastructure\\Repositories\\Repository.cs",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Tests\\Api\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OrderingShop.Tests\\Api\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Tests\\Api\\UnitTest1.cs",
+              "RelativeToolTip": "OrderingShop.Tests\\Api\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:01:59.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "OrderingShop.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "OrderingShop.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:00:21.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Context\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "OrderingShop.Infrastructure\\Context\\AplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Infrastructure\\Context\\AplicationDbContext.cs",
-              "RelativeToolTip": "OrderingShop.Infrastructure\\Context\\AplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T23:53:15.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Api\\Configurations\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "OrderingShop.Api\\Configurations\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Janio\\source\\repos\\OrderingShop\\OrderingShop.Api\\Configurations\\DependencyInjection.cs",
-              "RelativeToolTip": "OrderingShop.Api\\Configurations\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T23:47:40.989Z",
+              "WhenOpened": "2024-04-16T23:11:20.792Z",
               "EditorCaption": ""
             }
           ]
